@@ -1,0 +1,62 @@
+body {
+	background-color: black;
+}
+div.kontener0 {
+	font-size: 50px;
+	color: white;
+	vertical-align: middle; 
+	position: absolute;
+	top: 20%;
+	left: 50%;
+    margin-right: -50%;
+	transform: translate(-50%, -50%);
+}div.kontenerX {
+	font-size: 50px;
+	color: white;
+	vertical-align: middle; 
+	position: absolute;
+	top: 50%;
+	left: 50%;
+    margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+div.kontener {
+	text-shadow: 3px 2px red;
+	font-size: 140px;
+	color: white;
+	vertical-align: middle; 
+	position: absolute;
+	top: 60%;
+	left: 50%;
+    margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+div.kontener1 {
+	text-shadow: 3px 2px red;
+	font-size: 140px;
+	color: white;
+	vertical-align: middle; 
+	position: absolute;
+	top: 30%;
+	left: 50%;
+    margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+div.kontener2 {
+	color: white;
+	vertical-align: middle; 
+	position: absolute;
+	top: 80%;
+	left: 50%;
+    margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+div.kontener3 {
+	color: white;
+	vertical-align: middle; 
+	position: absolute;
+	top: 40%;
+	left: 50%;
+    margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
